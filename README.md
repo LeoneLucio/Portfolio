@@ -1,5 +1,27 @@
 # 📊 Portfólio – Leone Lúcio  
 
+## 📌 Projetos em Destaque  
+
+🔹 **Previsão de Vendas com Olist**  
+🔗 https://github.com/LeoneLucio/Previsao_Vendas_Olist  
+
+Análise de dados de e-commerce com foco em entender padrões de vendas e gerar previsões.  
+
+✔ Limpeza e tratamento de dados  
+✔ Análise exploratória (EDA)  
+✔ Criação de variáveis (feature engineering)  
+✔ Modelagem preditiva  
+✔ Insights acionáveis para negócio  
+
+---
+
+## 🔗 Onde me encontrar  
+
+📍 LinkedIn: https://www.linkedin.com/in/leonelucio/  
+📧 Email: leonelucioferreirasantos@gmail.com  
+
+---
+
 👋 Olá! Eu sou **Leone Lúcio**  
 
 💻 **Analista de Dados Jr**  
@@ -22,28 +44,6 @@ Estou desenvolvendo projetos práticos com dados reais, aplicando **Python, SQL 
 
 **Visualização:**  
 📊 Power BI | Plotly  
-
----
-
-## 📌 Projetos em Destaque  
-
-🔹 **Previsão de Vendas com Olist**  
-🔗 https://github.com/LeoneLucio/Previsao_Vendas_Olist  
-
-Análise de dados de e-commerce com foco em entender padrões de vendas e gerar previsões.  
-
-✔ Limpeza e tratamento de dados  
-✔ Análise exploratória (EDA)  
-✔ Criação de variáveis (feature engineering)  
-✔ Modelagem preditiva  
-✔ Insights acionáveis para negócio  
-
----
-
-## 🔗 Onde me encontrar  
-
-📍 LinkedIn: https://www.linkedin.com/in/leonelucio/  
-📧 Email: leonelucioferreirasantos@gmail.com  
 
 ---
 
