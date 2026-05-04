@@ -1,53 +1,57 @@
-# 🧠 Portfólio – Leone Lúcio  
+# 📊 Portfólio – Leone Lúcio  
 
 👋 Olá! Eu sou **Leone Lúcio**  
 
-💻 **Cientista de Dados em transição de carreira**  
-📊 Apaixonado por **análise de dados, Python e Machine Learning**
+💻 **Analista de Dados em formação**  
+📊 Focado em transformar dados em insights para tomada de decisão  
 
 ---
 
 ## 🚀 Atualmente  
-Estou **revisando e aprimorando meus projetos** de Ciência de Dados, com o objetivo de **criar um portfólio sólido** e conquistar uma **vaga remota** na área.  
+Estou desenvolvendo projetos práticos com dados reais, aplicando **Python, SQL e Power BI** para resolver problemas de negócio e construir um portfólio sólido visando minha primeira oportunidade como **Analista de Dados Júnior**.  
 
 ---
 
 ## 🛠 Tecnologias e Ferramentas  
 
-**Linguagens e Bibliotecas:**  
-🐍 Python | 📊 Pandas | 🤖 Scikit-learn | 📈 Matplotlib | 🧮 Seaborn | 📊 Plotly  
+**Análise de Dados:**  
+🐍 Python (Pandas, Matplotlib, Seaborn)  
 
-**Bancos de Dados:**  
-🛢 SQL | PostgreSQL | MySQL  
+**Banco de Dados:**  
+🛢 SQL (PostgreSQL, MySQL)  
 
-**Machine Learning:**  
-⚙️ XGBoost | 🌲 Random Forest | 📉 Regressão Linear e Logística  
-
-**Visualização de Dados:**  
-📊 Power BI | Python (Matplotlib, Seaborn, Plotly)
+**Visualização:**  
+📊 Power BI | Plotly  
 
 ---
 
 ## 📌 Projetos em Destaque  
 
-🔹 [**Previsão de Vendas com Olist**](https://github.com/LeoneLucio/Previsao_Vendas_Olist)  
-Previsão de vendas com base em dados reais da Olist.  
-Inclui **análise exploratória, feature engineering, modelagem com Machine Learning** e **avaliação de métricas**.  
+🔹 **Previsão de Vendas com Olist**  
+🔗 https://github.com/LeoneLucio/Previsao_Vendas_Olist  
+
+Análise de dados de e-commerce com foco em entender padrões de vendas e gerar previsões.  
+
+✔ Limpeza e tratamento de dados  
+✔ Análise exploratória (EDA)  
+✔ Criação de variáveis (feature engineering)  
+✔ Modelagem preditiva  
+✔ Insights acionáveis para negócio  
 
 ---
 
 ## 🔗 Onde me encontrar  
 
-📍 [**LinkedIn**](https://www.linkedin.com/in/leonelucio/)  
-📧 **leonelucioferreirasantos@gmail.com**
+📍 LinkedIn: https://www.linkedin.com/in/leonelucio/  
+📧 Email: leonelucioferreirasantos@gmail.com  
 
 ---
 
 ## 💬 Sobre mim  
 
-Sou um profissional curioso e autodidata, apaixonado por descobrir padrões e transformar dados em **insights estratégicos**.  
-Busco aplicar técnicas de **Machine Learning, Estatística e Visualização de Dados** para gerar **impacto real nos negócios** e aprender continuamente com novos desafios.  
+Tenho perfil analítico e foco em resolver problemas com dados.  
+Busco constantemente evoluir minhas habilidades e aplicar técnicas de análise para gerar valor real.  
 
 ---
 
-⭐ Se gostou dos meus projetos, não esqueça de deixar uma ⭐ no repositório!  
+⭐ Se gostou dos projetos, fique à vontade para explorar os repositórios!
