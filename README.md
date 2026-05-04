@@ -2,7 +2,7 @@
 
 👋 Olá! Eu sou **Leone Lúcio**  
 
-💻 **Analista de Dados em formação**  
+💻 **Analista de Dados Jr**  
 📊 Focado em transformar dados em insights para tomada de decisão  
 
 ---
