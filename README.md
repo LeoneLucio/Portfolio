@@ -3,15 +3,28 @@
 ## 📌 Projetos em Destaque  
 
 🔹 **Previsão de Vendas com Olist**  
-🔗 https://github.com/LeoneLucio/Previsao_Vendas_Olist  
+https://github.com/LeoneLucio/Previsao_Vendas_Olist  
 
 Análise de dados de e-commerce com foco em entender padrões de vendas e gerar previsões.  
 
-✔ Limpeza e tratamento de dados  
-✔ Análise exploratória (EDA)  
-✔ Criação de variáveis (feature engineering)  
-✔ Modelagem preditiva  
-✔ Insights acionáveis para negócio  
+- Limpeza e tratamento de dados  
+- Análise exploratória (EDA)  
+- Criação de variáveis (feature engineering)  
+- Modelagem preditiva  
+- Insights acionáveis para negócio  
+
+---
+
+🔹 **Classificação de Crédito**  
+https://github.com/LeoneLucio/Classificacao_de_credito
+
+Este projeto tem como objetivo prever a inadimplência de clientes no momento da concessão de crédito, utilizando técnicas de análise de dados e machine learning.
+
+- Python
+- Pandas
+- NumPy
+- Seaborn / Matplotlib
+- Scikit-learn
 
 ---
 
@@ -22,7 +35,7 @@ Análise de dados de e-commerce com foco em entender padrões de vendas e gerar 
 
 ---
 
-👋 Olá! Eu sou **Leone Lúcio**  
+👋 Oi. Eu sou **Leone Lúcio**  
 
 💻 **Analista de Dados Jr**  
 📊 Focado em transformar dados em insights para tomada de decisão  
